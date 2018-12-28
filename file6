@@ -1,6 +1,4 @@
-<< HEAD
-hi
-=======
-Hi
-This merge test
->>>>>>> b02ef44cc86fe3d7aefe18178372b224bb2691ab
+hithisisLLmerge
+
+git remote add origin https://github.com/Amarsubramanian/AmarMasterBrachTESTING.git
+
