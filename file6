@@ -1,1 +1,6 @@
+<< HEAD
 hi
+=======
+Hi
+This merge test
+>>>>>>> b02ef44cc86fe3d7aefe18178372b224bb2691ab
